@@ -1,0 +1,7 @@
+{
+  "name": "php-test",
+  "description": "php test files to deploy to heroku",
+  "repository": "https://github.com/ehsan-ashik/php-test",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
